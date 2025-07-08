@@ -71,10 +71,10 @@
           <mxGeometry x="-220" y="1040" width="250" height="140" as="geometry" />
         </mxCell>
         <mxCell id="eORyXAVmL1elCDUpzkHJ-8" value="执行器" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="1050" width="280" height="180" as="geometry" />
+          <mxGeometry x="1020" y="1050" width="280" height="180" as="geometry" />
         </mxCell>
         <mxCell id="eORyXAVmL1elCDUpzkHJ-9" value="执行器" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="710" y="1050" width="280" height="180" as="geometry" />
+          <mxGeometry x="680" y="1050" width="280" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
