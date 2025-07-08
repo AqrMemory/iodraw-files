@@ -91,6 +91,9 @@
         <mxCell id="eORyXAVmL1elCDUpzkHJ-14" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;磁盘文件 ibd&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="240" y="1065" width="150" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="eORyXAVmL1elCDUpzkHJ-15" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;redo 日志文件&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;（InnoDB引擎特有）&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="705" y="1065" width="230" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
