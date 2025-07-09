@@ -211,7 +211,12 @@
         </mxCell>
         <mxCell id="c7xQZI932s-ouXTMtytg-21" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;④写redo日志&lt;/b&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="c7xQZI932s-ouXTMtytg-20">
           <mxGeometry x="-0.235" y="1" relative="1" as="geometry">
-            <mxPoint x="59" y="69" as="offset" />
+            <mxPoint x="-2" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c7xQZI932s-ouXTMtytg-22" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="c7xQZI932s-ouXTMtytg-20">
+          <mxGeometry x="-0.2876" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
