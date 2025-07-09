@@ -160,6 +160,11 @@
             <mxPoint x="-88" y="69" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="c7xQZI932s-ouXTMtytg-34" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;③更新内存数据&lt;/b&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="c7xQZI932s-ouXTMtytg-11">
+          <mxGeometry x="-0.235" y="1" relative="1" as="geometry">
+            <mxPoint x="-23" y="-211" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="c7xQZI932s-ouXTMtytg-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.381;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=4;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DrkNOHK4sQvR2rrYZA2K-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1030" y="600" as="sourcePoint" />
