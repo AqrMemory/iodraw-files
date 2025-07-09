@@ -263,12 +263,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="c7xQZI932s-ouXTMtytg-32" value="&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;binlog主要用来恢复数&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;据库磁盘里的数据&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#ffff88;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="1315" y="1385" width="240" height="70" as="geometry" />
+          <mxGeometry x="1305" y="1330" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="c7xQZI932s-ouXTMtytg-33" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF1900;strokeWidth=5;exitX=1.007;exitY=0.605;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="c7xQZI932s-ouXTMtytg-32" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1530" y="1455" as="sourcePoint" />
             <mxPoint x="1685" y="1478" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1400" y="1330" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
