@@ -169,7 +169,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="c7xQZI932s-ouXTMtytg-14" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;③更新内存数据&lt;/b&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="c7xQZI932s-ouXTMtytg-13">
+        <mxCell id="c7xQZI932s-ouXTMtytg-14" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;④写redo日志&lt;/b&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="c7xQZI932s-ouXTMtytg-13">
           <mxGeometry x="-0.235" y="1" relative="1" as="geometry">
             <mxPoint x="59" y="69" as="offset" />
           </mxGeometry>
